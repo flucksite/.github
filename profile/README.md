@@ -8,5 +8,5 @@
 ## Links
 - [Website](https://fluck.site)
 - [Bluesky](https://bsky.app/profile/fluck.site)
-  [Mastodon](https://indieweb.social/@fluck)
+- [Mastodon](https://indieweb.social/@fluck)
 - [Codeberg](https://codeberg.org/fluck)
